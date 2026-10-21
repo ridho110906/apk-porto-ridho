@@ -22,11 +22,11 @@ with col1:
     st.header("Hallo, Perkenalkan Nama Saya Muhammad Ridho.")
     st.write("Saya seorang mahasiswa di Universitas Nurdin Hamzah Jambi, " \
     "fakultas Ilmu Komputer, prodi Sistem Informasi.")
-    st.image("pages/unh1.png", width=200)
+    st.image("tugas_porto/pages/unh1.png", width=200)
 
 with col2:
     st.write("##")
-    st.image("pages/foto1.png", width=300)
+    st.image("tugas_porto/pages/foto1.png", width=300)
     st.subheader("Hidup itu seperti naik sepeda, agar tidak jatuh kita harus terus maju, meskipun rantainya sering lepas.")
 
 with col3:
@@ -34,7 +34,7 @@ with col3:
     st.write("Hobi saya adalah olahraga, terutama bersepeda." \
     " Saya juga suka bermain game dan menonton film di waktu luang saya. " \
     "Selain itu, saya juga suka nongkrong sambil ngopi hehe...")
-    st.image("pages/fotohobi.jpeg", width=300)
+    st.image("tugas_porto/pages/fotohobi.jpeg", width=300)
 
 
 
