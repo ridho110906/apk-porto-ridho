@@ -36,12 +36,12 @@ col1, col2 = st.columns([1,2])
 with col1:
     with st.expander("Instagram"):
         st.write("Follow me on Instagram: [@_rdh.0](https://www.instagram.com/_rdh.0/)")
-        st.image("pages/ig.png", width=50)
+        st.image("tugas_porto/pages/ig.png", width=50)
 
     with st.expander("TikTok"):
         st.write("Follow me on TikTok: [@rdh08](https://www.tiktok.com/@rdh08)")
-        st.image("pages/tiktok.jpg", width=50)
-    st.audio("pages/musik.mp3",autoplay=True,loop=True,width=20)
+        st.image("tugas_porto/pages/tiktok.jpg", width=50)
+    st.audio("tugas_porto/pages/musik.mp3",autoplay=True,loop=True,width=20)
 with col2:
     st.write("#")
 
