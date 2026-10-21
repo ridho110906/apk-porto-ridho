@@ -39,4 +39,4 @@ with col1:
     st.page_link("pages/sosmed.py", label="Lihat Sosmed", icon="🌐")
 
 with col2:
-    st.video("pages/video.mp4",width=400,autoplay=True,loop=True,muted=False)
+    st.video("tugas_porto/pages/video.mp4",width=400,autoplay=True,loop=True,muted=False)
