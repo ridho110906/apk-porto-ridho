@@ -19,7 +19,7 @@ st.markdown(
 )
 
 
-with open("pages/tes.html", "r") as f:
+with open("tugas_porto/pages/tes.html", "r") as f:
     kode_html = f.read()
 
 components.html(kode_html, height=1500, scrolling=True)
