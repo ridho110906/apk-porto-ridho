@@ -30,6 +30,17 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
+st.markdown(
+    """
+    <style>
+    [data-testid="stSidebar"] {
+        background-color: teal;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
 
 col1, col2 = st.columns([2,2],)
 with col1:
