@@ -37,3 +37,13 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
+st.markdown(
+    """
+    <style>
+    [data-testid="stSidebar"] {
+        background-color: teal;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
