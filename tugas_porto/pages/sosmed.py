@@ -62,6 +62,7 @@ st.markdown(
     <style>
     [data-testid="stSidebar"] {
         background-color: teal;
+        display: none;
     }
     </style>
     """,
