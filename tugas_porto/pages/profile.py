@@ -26,7 +26,7 @@ with col1:
 
 with col2:
     st.write("##")
-    st.image("tugas_porto/pages/foto1.png", width=300)
+    st.image("tugas_porto/pages/foto1.png", width=270)
     st.subheader("Hidup itu seperti naik sepeda, agar tidak jatuh kita harus terus maju, meskipun rantainya sering lepas.")
 
 with col3:
